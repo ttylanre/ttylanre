@@ -35,9 +35,9 @@ I’m a full-stack engineer based in Lagos, NG — passionate about building cle
 **Tech:** MERN Stack, Stripe API  
 OJA247 is a multi-tenant e-commerce platform that helps small business owners in Nigeria create and manage their own online shops, always open 24/7.
 
-### 🔹 [Developer Portfolio](https://github.com/lanre647/developer-portfolio)
-**Tech:** React, TailwindCSS  
-Personal portfolio showcasing projects, skills, and technical articles.
+### 🔹 [EndeavourOs/Arch Linux Dotfiles](https://github.com/ttylanre/my_dotfiles)
+**Tech:**   
+My EndeavourOS/Arch Linux Niri Wayland rice and developer dotfiles.
 
 ---
 
