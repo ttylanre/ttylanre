@@ -44,7 +44,7 @@ My EndeavourOS/Arch Linux Niri Wayland rice and developer dotfiles—Waybar, Fuz
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ttylanre&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyylanre&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttylanre&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
